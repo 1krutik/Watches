@@ -1,0 +1,171 @@
+
+{
+  "shop":[
+    {
+      "id": 1,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/products/Whitestainlessanalog1.jpg?v=1682066982&width=500",
+      "name": "Black 3 In 1 Analog",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "5000",
+      "category": "Watches"
+    },
+    {
+      "id": 2,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/Platinum3classicanalog2.jpg?v=1682397750&width=500",
+      "name": "Platinum 3 In 1 Analog",
+      "desc": "Platinum Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "2400",
+      "category": "Watches"
+    },
+    {
+      "id": 3,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/goldenblackanalogautomatic1_1cd2fedc-1c3c-43c6-853b-a231ddfcd2fb.jpg?v=1682401174&width=500",
+      "name": "Golden Black Analog Automatic",
+      "desc": "Golden Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "25000",
+      "category": "Watches"
+    },
+    {
+      "id": 4,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/1_7e53517a-817f-4a86-9125-71b010604842.jpg?v=1695115298&width=500",
+      "name": "Golden Analog Watch",
+      "desc": "Golden Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "10000",
+      "category": "Watches"
+    },
+    {
+      "id": 5,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/Platinum3_1.jpg?v=1682397999&width=500",
+      "name": "Platinum 3 In 1 Analog",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "22000",
+      "category": "Watches"
+    },
+    {
+      "id": 6,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/products/Goldcaseblackdial1.jpg?v=1682072802&width=500",
+      "name": "Gold Case Black Dial Automatic",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "5000",
+      "category": "Watches"
+    },
+    {
+      "id": 7,
+      "img": "https://cdn.shopify.com/s/files/1/2496/9194/products/Blackanalogroman1.jpg?v=1682067932&width=500",
+      "name": "Black Analog Roman",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "18000",
+      "category": "Watches"
+    },
+    {
+      "id": 8,
+      "img": "https://cdn.shopify.com/s/files/1/2496/9194/products/Classicromanblack1_29c7bd7c-f474-4f89-893e-aced3c3810af.jpg?v=1682071679&width=500",
+      "name": "Classic Roman Black Dial",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "10000",
+      "category": "Watches"
+    },
+    {
+      "id": 9,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/products/18.jpg?v=1509192823&width=360",
+      "name": "Black Leather 3 In 1 Automatic",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "16000",
+      "category": "Watches"
+    },
+    {
+      "id": 10,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/products/12_36fe58bf-bb9d-4cef-bb00-114c1da29ba1.jpg?v=1509192807&width=360",
+      "name": "White Stainless Steel 3",
+      "desc": "Stainless Steel",
+      "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+      "Discount": "50% off",
+      "price": "5000",
+      "category": "Watches"
+    }
+  ],
+  "Universal":[
+    
+      {
+        "id": 1,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/1_2ce6bd75-0c61-416e-9998-019e921155bf.png?v=1613163201&width=550",
+        "name": "Black Dial Stainless Steel 3",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      },
+      {
+        "id": 2,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/2_224e9460-2f81-4a60-8874-8c1236e72252.png?v=1613163201&width=550",
+        "name": "Stylish Dial",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      },
+      {
+        "id": 3,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/3_ea3cc821-0b3f-4318-93a9-47790c55c040.png?v=1613163202&width=550",
+        "name": "Gold Case Dial",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      },
+      {
+        "id": 4,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/4_cb6e4fcb-b711-440e-a192-2818686a6ad2.png?v=1613163202&width=550",
+        "name": "Scientific Dial",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      },
+      {
+        "id": 5,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/5_ab23462a-e5bd-42ca-bbaf-c90fdea25081.png?v=1613163202&width=550",
+        "name": "Classy Numeral Dial",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      },
+      {
+        "id": 6,
+        "img": "https://chrono-dial.myshopify.com/cdn/shop/files/6_5207b368-2bc2-42ab-b8f4-e18aef5908b8.png?v=1613163202&width=550",
+        "name": "Silver Case Dial",
+        "desc": "Stainless Steel",
+        "offer": "Bank OfferGet ₹50 Instant Discount on first Flipkart UPI transaction on order of ₹200 and aboveT&C",
+        "Discount": "50% off",
+        "price": "5000",
+        "category": "Watches"
+      }
+    
+
+    
+  ]
+}
