@@ -1,0 +1,43 @@
+/* Slider.css */
+
+.carousel-caption {
+    position: absolute;
+    top: 60%;
+left: 60%;
+    transform: translateY(-50%);
+    text-align: left;
+    color: #ffffff;
+  }
+  
+  .slider-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    color: #c0a060;
+  }
+  
+  .slider-text {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #c0a060;
+  }
+  
+  .slider-button {
+    background: none;
+    border: 1px solid #c0a060;
+    padding: 8px 16px;
+    color: #c0a060;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .slider-button:hover {
+    background-color: rgba(192, 160, 96, 0.2);
+  }
+  
+  .sliderimg {
+    width: 100%;
+    height: auto;
+  }
+  

@@ -67,7 +67,7 @@ const Footer = () => {
         <div className="row justify-content-center">
           <div className="col-md-12">
             <p className="footer-bottom-text mt-3">
-              All Right Reserved © 2024, Chrono Dial (password: buddha)
+              All Right Reserved © 2024, Chrono Dial
             </p>
             <div className="payment-icons my-3 d-flex justify-content-center">
               <i className="fab fa-cc-visa mx-2"></i>

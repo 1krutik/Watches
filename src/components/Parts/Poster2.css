@@ -1,0 +1,55 @@
+/* Poster2 Carousel Styles */
+.poster2-carousel {
+    width: 900px;
+    height: 400px;
+    margin: 0 auto;
+    position: relative; /* Ensure relative positioning for absolute positioning of controls */
+}
+
+.poster2-carousel-item {
+    text-align: center;
+}
+
+.poster2-carousel-item img {
+    max-height: 400px;
+    object-fit: cover;
+    display: inline-block;
+}
+
+/* Styling the carousel controls */
+.poster2-carousel-control-prev,
+.poster2-carousel-control-next {
+    width: 40px;
+    height: 40px;
+    background-color: #e6d3b8; /* Light beige background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1; /* Make buttons always visible */
+    position: absolute; /* Absolute positioning to move controls outside the carousel */
+    top: 45%; /* Vertically center the buttons */
+    z-index: 1; /* Ensure buttons are above carousel content */
+}
+
+/* Positioning the previous button */
+.poster2-carousel-control-prev {
+    left: -60px; /* Move it to the left outside of the carousel */
+}
+
+/* Positioning the next button */
+.poster2-carousel-control-next {
+    right: -60px; /* Move it to the right outside of the carousel */
+}
+
+/* Styling the icons inside the buttons */
+.poster2-carousel-control-prev-icon,
+.poster2-carousel-control-next-icon {
+    background-size: 20px 20px; /* Adjusting the icon size */
+    background-color: transparent;
+}
+
+.poster2-carousel-control-prev:hover,
+.poster2-carousel-control-next:hover {
+    background-color: #d3b897; /* Slightly darker on hover */
+    border-color: #a5886f;
+}

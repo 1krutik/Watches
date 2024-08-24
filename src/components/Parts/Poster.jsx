@@ -8,7 +8,7 @@ const Poster = () => {
         <div className="overlay">
           <h2>Romance in the air</h2>
           <p>WEAR YOUR STYLE WITH VERVE & ATTITUDE</p>
-          <button className="details-button btn col-3">DETAILS</button>
+          <button className="slider-button btn col-3">DETAILS</button>
         </div>
       </div>
       <div className="posterimgs col-6">
@@ -16,7 +16,7 @@ const Poster = () => {
         <div className="overlay">
           <h2>Analog & Digital</h2>
           <p>SMART WATCHES LATEST FASHION STATEMENT</p>
-          <button className="details-button btn col-3">DETAILS</button>
+          <button className="slider-button btn col-3">DETAILS</button>
         </div>
       </div>
     </div>

@@ -4,6 +4,8 @@ import Poster from './Parts/Poster'
 import Transparet from './Parts/Transparent'
 import ShopPage from './Pages/Shop'
 import UniversalWatches from './Pages/UniversalWatches'
+import Poster2 from './Parts/Poster2'
+import Dials from './Parts/Dials'
 
 const Homepage = () => {
   return (
@@ -13,6 +15,8 @@ const Homepage = () => {
         <Transparet/>
         <ShopPage/>
         <UniversalWatches/>
+        <Poster2/>
+        <Dials/>
 
         
     </div>

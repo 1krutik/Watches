@@ -201,7 +201,7 @@ h2 {
 .transchild {
   position: relative;
   z-index: 1;
-  padding-left: 55%; /* Adjust padding to fit the layout */
+  padding-left: 55%;
 }
 
 .textwhite {
@@ -326,3 +326,15 @@ h2 {
 .item:hover{
   border: 1px solid #e8e6e6; /* Optional: Adds a border around images */
 transition: 2s linear border white}
+
+
+
+
+.poster2-item img {
+  width: 50%;
+  height: auto;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for controls */
+}

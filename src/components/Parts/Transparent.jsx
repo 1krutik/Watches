@@ -48,7 +48,7 @@ const Transparet = () => {
           sodales, augue velit cursus nunc.uis leo. Sed fringilla mauris sit amet 
           nibh. Donec sodales sagittis magna. Sed consequat, leo eget
         </p>
-        <button className='details btn btn-secondary col-3 golden'>DETAILS</button>
+        <button className="slider-button btn col-3">EXPLORE</button>
       </div>
     </div>
   );
