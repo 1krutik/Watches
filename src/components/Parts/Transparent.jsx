@@ -9,11 +9,12 @@ const Transparet = () => {
 
     const observer = new IntersectionObserver(
       ([entry]) => {
+        console.log('IntersectionObserver entry:', entry); // Debug log
         setHideImage(!entry.isIntersecting);
       },
       {
-        root: null,
-        threshold: 0,
+        root: null, // Observe changes relative to the viewport
+        threshold: 0, // Trigger when even one pixel is visible
       }
     );
 
@@ -34,18 +35,18 @@ const Transparet = () => {
       className={`transparent-container ${hideImage ? 'hide-image' : ''}`}
     >
       <div className="transchild bg-transparent col-12 h-100">
-        <h5 className='text-uppercase '>Roman Or Numeral?</h5>
-        <p className='text-capitalize golden'>
-          The Watches We Sell Are Original And Vendor Certified For A Peerless 
+        <h5 className="text-uppercase">Roman Or Numeral?</h5>
+        <p className="text-capitalize golden">
+          The Watches We Sell Are Original And Vendor Certified For A Peerless
           Performance!
         </p>
         
-        <p className='text-capitalize'>
-          uis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis 
-          magna. Sed consequat, leo eget bibendum sodales, uis leo. Sed fringilla 
-          mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo 
-          eget. Donec sodales sagittis magna. Sed consequat, leo eget bibendum 
-          sodales, augue velit cursus nunc.uis leo. Sed fringilla mauris sit amet 
+        <p className="text-capitalize">
+          uis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis
+          magna. Sed consequat, leo eget bibendum sodales, uis leo. Sed fringilla
+          mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo
+          eget. Donec sodales sagittis magna. Sed consequat, leo eget bibendum
+          sodales, augue velit cursus nunc.uis leo. Sed fringilla mauris sit amet
           nibh. Donec sodales sagittis magna. Sed consequat, leo eget
         </p>
         <button className="slider-button btn col-3">EXPLORE</button>

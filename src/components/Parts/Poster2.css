@@ -1,7 +1,7 @@
 /* Poster2 Carousel Styles */
 .poster2-carousel {
-    width: 900px;
-    height: 400px;
+    width: 600px;
+    height: 300px;
     margin: 0 auto;
     position: relative; /* Ensure relative positioning for absolute positioning of controls */
 }
@@ -11,7 +11,7 @@
 }
 
 .poster2-carousel-item img {
-    max-height: 400px;
+    max-height: 300px;
     object-fit: cover;
     display: inline-block;
 }

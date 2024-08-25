@@ -167,5 +167,38 @@
     
 
     
+  ],
+  "Dials":[
+    {
+      "id": 1,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-3_500x500_a6e4ceec-e789-4bc5-8604-dc8f84b99264.png?v=1613163141&width=1500"
+      
+    },
+    {
+      "id": 2,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-2_500x500_b63eba29-0230-4f98-b3d7-8b83864808a8.png?v=1613162805&width=1500"
+      
+    },
+    {
+      "id": 3,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-1_500x500_f46c41d6-6f6d-4832-ab7e-9be5f8162a64.png?v=1613163141&width=1500"
+      
+    },
+    {
+      "id": 4,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-2_500x500_b63eba29-0230-4f98-b3d7-8b83864808a8.png?v=1613162805&width=1500"
+      
+    },
+    {
+      "id": 5,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-5_500x500_3da6bb9a-edd5-4f60-899e-0198bd21ef73.png?v=1613163141&width=1500"
+      
+    },
+    {
+      "id": 6,
+      "img": "https://chrono-dial.myshopify.com/cdn/shop/files/client-2_500x500_b63eba29-0230-4f98-b3d7-8b83864808a8.png?v=1613162805&width=1500"
+      
+    }
+  
   ]
 }
