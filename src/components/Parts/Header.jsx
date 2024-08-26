@@ -54,9 +54,11 @@ const Header = () => {
           </ul>
         </nav>
         <ul className="navlinks">
+         <Link to={"/cart"}>
           <li>
             <i className="fa-solid fa-cart-shopping"></i>
           </li>
+         </Link>
           <li>
             <i className="fa-solid fa-user"></i>
           </li>
