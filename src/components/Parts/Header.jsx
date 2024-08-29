@@ -28,12 +28,14 @@ const Header = () => {
       }`}
     >
       <header>
+        <Link to={"/"}>
         <img
           src="https://chrono-dial.myshopify.com/cdn/shop/files/2017-10-31.png?v=1613163202&width=240"
           alt="Logo"
-        
+          
           className="logo"
-        />
+          />
+          </Link>
         <nav className="col-6">
           <ul className="navlinks w-50 col-6">
             <li>

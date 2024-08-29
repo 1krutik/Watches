@@ -17,6 +17,7 @@ body {
   position: absolute;
   left: 20px;
   width: 250px;
+  bottom: 20px;
   cursor: pointer;
 }
 
